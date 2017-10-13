@@ -25,3 +25,10 @@ header#header {
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+.logo {
+  float: left;
+  max-width: 150px;
+  height: auto;
+  padding-right: 20px;
+}

@@ -17,6 +17,7 @@
         <header id="header">
           <div class="container">
             <div class="col-sm-12">
+              <img src="<?= IMAGES_URL; ?>/logo.png" alt="<?php bloginfo("title"); ?>" class="logo"/>
               <h1><? bloginfo("title"); ?></h1>
               <h2><? bloginfo("description"); ?></h2>
             </div>
